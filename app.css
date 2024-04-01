@@ -1,0 +1,55 @@
+.mainContainer {
+    margin: 100px auto 360px !important;
+}
+
+input {
+    padding: 12px !important;
+}
+
+.btnAdd {
+    font-size: 12px !important;
+}
+
+.getItem {
+    font-size: 12px !important;
+}
+
+.trash-icon {
+    font-size: 12px !important;
+    cursor: pointer;
+    color: red;
+}
+
+.fs-12 {
+    font-size: 12px !important;
+}
+
+.fs-13 {
+    font-size: 13px !important;
+}
+
+.fs-16 {
+    font-size: 16px !important;
+}
+
+.list-style-none {
+    list-style: none;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+li:hover {
+    background: #ccc;
+    transition: 900ms;
+}
+
+.w-80 {
+    width: 80% !important;
+}
+
+.custom-checkbox {
+    padding: 15px;
+}
+
